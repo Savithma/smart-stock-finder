@@ -1,0 +1,11 @@
+{
+    "name": "iit-group-05/smart-stock-finder",
+    "description": "Smart Clothing Stock Finder for Retail Stores",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
